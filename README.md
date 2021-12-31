@@ -1,4 +1,4 @@
-# Cybersecurity Software Engineer Interview Questions
+# Engineering Interview Questions
 
 ######  Welcome to the The World of Enginering Interview Questions in Cybersecurity:
 > A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Security Software Architecture & design patterns.
