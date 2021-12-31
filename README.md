@@ -1,7 +1,7 @@
 # Engineering Interview Questions
 
 ######  Welcome to the The World of Enginering Interview Questions in Cybersecurity:
-> A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Security Software Architecture & design patterns.
+> A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Interview for Security & Computer Engineering.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 
