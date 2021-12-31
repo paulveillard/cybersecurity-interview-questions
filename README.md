@@ -1,4 +1,4 @@
-# Cybersecurity Engineering Interview Questions
+# Cybersecurity Engineer Interview Questions
 
 
 ### Table of Contents
