@@ -80,6 +80,8 @@
 - [Security](#security)
 - [Data Science](#data-science)
 
+**[`^        back to top        ^`](#)**
+
 ## Programming Languages/Frameworks/Platforms
 
 ### Android
@@ -97,6 +99,8 @@
 * [Interview Questions for Senior Android Developers](https://github.com/mohsenoid/Android-Interview-Questions)
 * [35+ Android Interview Questions](https://www.interviewbit.com/android-interview-questions/)
 
+**[`^        back to top        ^`](#)**
+
 ### AngularJS
 
 * [12 Essential AngularJS Interview Questions from Toptal](http://www.toptal.com/angular-js/interview-questions)
@@ -107,6 +111,8 @@
 * [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
 * [Top 25 Angularjs Interview Questions and Quiz](http://career.guru99.com/top-25-angular-js-interview-questions/)
 * [100 AngularJS Interview Questions - Quick Refresher](https://www.techbeamers.com/latest-angularjs-interview-questions-answers/)
+
+**[`^        back to top        ^`](#)**
 
 ### Angular
 
@@ -593,6 +599,8 @@
 * [Top 30 Blockchain Interview Questions – For Freshers to Experienced](https://data-flair.training/blogs/blockchain-interview-questions/)
 * [Most Frequently Asked Blockchain Interview Questions](https://www.digitalvidya.com/blog/blockchain-interview-questions/)
 
+**[`^        back to top        ^`](#)**
+
 ## Coding exercises
 
 * [Common interview questions and puzzles solved in several languages](https://github.com/mre/the-coding-interview)
@@ -619,11 +627,14 @@
 * [Top 50 Data Structure Interview Questions from Career Guru](http://career.guru99.com/top-50-data-structure-interview-questions/)
 * [What is Data Structure? | Top 40 Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
 
+**[`^        back to top        ^`](#)**
 
 ## Networks
 
 * [Top 100 Networking Interview Questions & Answers from Career Guru](http://career.guru99.com/top-100-networking-interview-questions-answers/)
 * [Networking Interview Questions](https://www.interviewbit.com/networking-interview-questions/)
+
+**[`^        back to top        ^`](#)**
 
 ## Security
 
@@ -631,6 +642,8 @@
 * [How to prepare for an information security job interview?](http://searchsecurity.techtarget.com/tip/How-to-prepare-for-an-information-security-job-interview)
 * [Information Security Interview Questions from Daniel Miessler](https://danielmiessler.com/study/infosec_interview_questions/)
 * [Top 50 Information Security Interview Questions for freshers and experts](http://resources.infosecinstitute.com/top-50-information-security-interview-questions/)
+
+**[`^        back to top        ^`](#)**
 
 ## Data Science
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
